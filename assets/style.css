@@ -1,0 +1,15 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: teal;
+  background: #d7d8d4;
+  z-index: 0;
+  background-image: url(../assets/images/spring.png)
+}
+.jumbotron {
+  margin-bottom: 0px;
+  background-image: url(../assets/images/Screen\ Shot\ 2018-12-11\ at\ 12.53.33\ PM.png);
+  background-position: 0% 25%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
